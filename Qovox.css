@@ -512,3 +512,14 @@ html {
     font-size: 0.9rem;
     line-height: 1.6;
 }
+html, body {
+    overflow-x: hidden;
+    touch-action: pan-x pan-y;
+}
+html {
+    scroll-behavior: smooth;
+}
+.primary-btn-link, .secondary-btn-link {
+    text-decoration: none;
+    display: inline-block;
+}
