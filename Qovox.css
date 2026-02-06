@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('5alfya.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('666.jpg');
     background-size: cover;      
     background-position: center;  
     background-attachment: fixed; 
@@ -433,4 +433,5 @@ html {
     .hero-text { font-size: 1rem; padding: 0 10px; }
     .project-img { height: 250px; }
     .service-card { width: 100%; }
+
 }
